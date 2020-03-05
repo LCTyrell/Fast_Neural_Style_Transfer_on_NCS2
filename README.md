@@ -36,8 +36,8 @@ In neural_style directory:`python Picamera_st_gui_pi.py `
 
 ![](https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/GUI.png)
 
-* Device : select Picamera, usb camera or file (and select input file)
-* Style : select style to use. Use only a style whose name begins with NCS if you checked the NCS2 box.
+* Device : select Picamera, USB Camera or File (and select input file)
+* Style : select the style to use. Use only a style whose name begins with NCS if you checked the NCS2 box.
 * Push button : check if you want to use a push button
 * NCS2 : check if you want to use a Neural Compute Stick (NCS2)
 * Downscale : use it to downscale the size of your image (if File device selected)
