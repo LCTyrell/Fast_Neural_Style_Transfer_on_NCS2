@@ -36,4 +36,7 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
 
 <img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
 
+## Limitation :
 
+* Raspberry Pi with 1Go Ram (if the NCS2 box is not checked): do not use image superior to ~200x200px (use Downscale)
+* Raspberry Pi with 4Go Ram (if the NCS2 box is not checked): do not use image superior to ~600x600px (use Downscale)
