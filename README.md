@@ -31,7 +31,7 @@
 * To test on PC :  
 In neural_style directory:`python Picamera_st_gui_pc.py `
 
-* On Raspberry Pi (work in progress, some problems with the display of windows) :
+* On Raspberry Pi (work in progress, some problems with the display of windows) :  
 In neural_style directory:`python Picamera_st_gui_pi.py `  
 
 ![](https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/GUI.png)
