@@ -13,24 +13,24 @@
 
 ## Required : 
 
-### Hardware  
+### Hardware    
 
-Raspberri Pi
-Pi camera (or usb camera)
-Intel Neural Compute Stick - NCS2 (optional but recommended)
+* Raspberri Pi
+* Pi camera (or usb camera)
+* Intel Neural Compute Stick - NCS2 (optional but recommended)
 
-### Software  
+### Software    
 
-Pytorch
-Torchvision
-Opencv
-Openvino (NCS2)
+* Pytorch
+* Torchvision
+* Opencv
+* Openvino (NCS2)
 
-## Run it! (Graphical User Interface)
+## Graphical User Interface
 
 ![](https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/GUI.png)
 
-## adding a push button (Box) : 
+## Adding a push button (Box) : 
 
 Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
 
