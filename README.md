@@ -17,7 +17,7 @@
 
 * Raspberri Pi 3/4
 * Pi camera (or usb camera)
-* Intel Neural Compute Stick - NCS2 (optional but recommended)
+* Intel Neural Compute Stick - NCS2
 
 ### Software    
 
