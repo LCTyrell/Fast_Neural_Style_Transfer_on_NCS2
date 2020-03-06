@@ -60,8 +60,8 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
  
 ## Screenshots
 
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
+<img src="utils/enki.jpg" alt="button" width="300"/>
+<img src="utils/portraits1.jpg" alt="button" width="300"/>
+<img src="utils/pytorch_vs_ncs2.png" alt="button" width="300"/>
+<img src="utils/720px_pi3B.png" alt="button" width="300"/>
+<img src="utils/picamera.png" alt="button" width="300"/>
