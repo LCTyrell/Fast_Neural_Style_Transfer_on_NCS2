@@ -65,7 +65,10 @@ def st_fns():
     
     image_st = cv2.imread(input_box1.value+"/image_st_"+shot_time+".jpg")
     window_name = "image_st_"+shot_time+".jpg"
+    
     cv2.imshow(window_name, image_st)
+    cv2.waitKey(0);  
+    cv2.destroyAllWindows()
     
     tstop=time.time()
     print("Inference time : "+str(1000*(tstop-tstart))+" ms")
@@ -109,7 +112,7 @@ def run_stylize():
 
 from guizero import App, Box, TextBox, PushButton, Text, Picture, Combo, CheckBox, Slider
 import tkinter
-#import tkFileDialog
+from tkinter import filedialog
 import os
 
 

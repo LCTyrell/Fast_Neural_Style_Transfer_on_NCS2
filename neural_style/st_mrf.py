@@ -103,6 +103,9 @@ def mrf(model,img):
         image_fns = cv2.imread(out_name)
         window_name = out_name
         cv2.imshow(window_name, image_fns)
+        cv2.waitKey(0);
+        cv2.destroyAllWindows()
+        
     #log.info("This sample is an API example, for any performance measurements please use the dedicated benchmark_app tool\n")
 
 #mrf("nst_vgg19-symbol.xml","OldMonkey.jpg")
