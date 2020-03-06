@@ -57,3 +57,4 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
 ## Demo
 
  Video : https://youtu.be/nuOkC_RnH4w
+ <video src="https://youtu.be/nuOkC_RnH4w" width="320" height="200" controls preload></video>
