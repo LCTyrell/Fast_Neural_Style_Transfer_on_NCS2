@@ -6,7 +6,7 @@
 
 **And create your own style transfer camera/box.**
 
-![](https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/examples-box.png)
+<img src="utils/examples-box.png" alt="" />
 
 * The code is based on https://github.com/pytorch/examples/tree/master/fast_neural_style
 
@@ -34,7 +34,7 @@ In neural_style directory:`python Picamera_st_gui_pc.py `
 * On Raspberry Pi (work in progress, some problems with the display of windows) :  
 In neural_style directory:`python Picamera_st_gui_pi.py `  
 
-![](https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/GUI.png)
+<img src="utils/GUI.png" alt="" />
 
 * Device : select Picamera, USB Camera or File (and select input file)
 * Style : select the style to use. Use only a style whose name begins with NCS if you checked the NCS2 box.
