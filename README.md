@@ -2,7 +2,7 @@
 
 **Apply style transfer to picture taken from the Raspberry Pi camera (or usb camera, files).**
 
-<img src="https://github.com/cmembrez/Raspberry-Robotics101/blob/master/images/utils/style_transfer.jpg" alt="" />
+<img src="./images/utils/style_transfer.jpg" alt="" />
 
 **And create your own style transfer camera/box.**
 
