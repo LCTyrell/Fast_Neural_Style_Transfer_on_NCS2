@@ -1,6 +1,6 @@
 # Picamera Style Transfer
 
-**Apply style transfer to picture taken from the Raspberry Pi camera (or usb camera, files).**
+**Apply style transfer to photo taken from the Raspberry Pi camera (or usb camera, files).**
 
 <img src="utils/style_transfer.jpg" alt="" />
 
