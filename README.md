@@ -52,4 +52,8 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
 
 * PC with 16Go RAM : do not use image larger than ~1000x1000px if the NCS2 box is not checked. (use Downscale)
 * Raspberry Pi with 1Go Ram : do not use image larger than ~200x200px if the NCS2 box is not checked. (use Downscale)
-* Raspberry Pi with 4Go Ram : do not use image larger than ~600x600px if the NCS2 box is not checked. (use Downscale)
+* Raspberry Pi with 4Go Ram : do not use image larger than ~600x600px if the NCS2 box is not checked. (use Downscale)  
+
+## Demo
+
+<iframe src="https://youtu.be/nuOkC_RnH4w " width="50%" frameborder="0" allowfullscreen></iframe> 
