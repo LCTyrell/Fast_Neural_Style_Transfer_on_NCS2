@@ -57,4 +57,3 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
 ## Demo
 
  Video : https://youtu.be/nuOkC_RnH4w
-<iframe width="560" height="315" src="https://youtu.be/nuOkC_RnH4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
