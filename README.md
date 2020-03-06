@@ -1,6 +1,6 @@
 # Picamera Style Transfer
 
-**Apply style transfer to picture taken from the Raspberry Pi camera (or usb camera, files).**
+**Apply style transfer to photo taken from the Raspberry Pi camera (or usb camera, files).**
 
 <img src="utils/style_transfer.jpg" alt="" />
 
@@ -17,7 +17,7 @@
 
 * Raspberri Pi 3/4
 * Pi camera (or usb camera)
-* Intel Neural Compute Stick - NCS2 (optional but recommended)
+* Intel Neural Compute Stick - NCS2
 
 ### Software    
 
@@ -60,8 +60,8 @@ Check the box to add a push button. Use pin 3.3v and n10. See image bellow :
  
 ## Screenshots
 
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
-<img src="https://raspberrypihq.com/wp-content/uploads/2018/02/02_Push-button_bb-min.jpg" alt="button" width="300"/>
+<img src="utils/enki.jpg" alt="button" width="600"/>
+<img src="utils/portraits1.jpg" alt="button" width="600"/>
+<img src="utils/pytorch_vs_ncs2.png" alt="button" width="600"/>
+<img src="utils/720px_pi3B.png" alt="button" width="600"/>
+<img src="utils/picamera.png" alt="button" width="600"/>
